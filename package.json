@@ -1,0 +1,9 @@
+{
+  "name": "mmiask-sandbox",
+  "version": "1.0.0",
+  "description": "\"My learning progress\"",
+  "main": "index.js",
+  "repository": "git@github.com:mmiask/sandbox.git",
+  "author": "mmiask <mmiask92@gmail.com>",
+  "license": "MIT"
+}
